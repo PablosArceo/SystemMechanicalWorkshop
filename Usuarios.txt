@@ -1,0 +1,3 @@
+1,sebastian,admin,cliente
+2,pablo,admin,admin
+3,arceo,admin,admin
